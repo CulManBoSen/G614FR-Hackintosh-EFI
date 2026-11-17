@@ -1,0 +1,17 @@
+# macOS / Windows 垃圾
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# 备份与日志（不上传）
+*.bak
+*.bak-*
+config.plist.*
+SysReport/
+Kexts-Backup/
+__MACOSX/
+
+# 编辑器
+.vscode/
+.idea/

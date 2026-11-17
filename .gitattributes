@@ -1,0 +1,9 @@
+# EFI 仓库必须保持字节完全一致：禁止任何换行符转换
+* -text
+*.efi binary
+*.aml binary
+*.icns binary
+*.l2x binary
+*.bin binary
+*.wmfw binary
+*.dylib binary
